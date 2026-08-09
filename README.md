@@ -9,11 +9,17 @@ The project uses a dataset of 50,000 students and presents the analysis through 
 🎯 Project Objectives
 
 Analyze the relationship between AI usage and academic performance.
+
 Compare students' Pre-GPA and Post-GPA.
+
 Understand how students use AI for different purposes.
+
 Analyze AI usage hours and Post-GPA.
+
 Study students' skill scores based on prompt skill levels.
+
 Analyze burnout risk and anxiety levels.
+
 Compare student performance across different major categories.
 
 📊 Dashboard Features
@@ -22,14 +28,23 @@ Executive Dashboard
 The main dashboard includes:
 
 Total Students: 50,000
+
 Average Pre-GPA: 3.15
+
 Average Post-GPA: 3.35
+
 Average AI Usage Hours: 8.43
+
 Average Study Hours: 11.21
+
 Average Post-GPA by Major
+
 AI Usage by Purpose
+
 Students by Major
+
 Burnout Risk Distribution
+
 Detailed Analysis
 
 The detailed analysis page includes:
@@ -43,9 +58,13 @@ Average AI Hours, Study Hours, Skill Score, GPA, and Anxiety
 🔍 Key Insights
 
 The overall average Post-GPA (3.35) is higher than the average Pre-GPA (3.15).
+
 STEM has the highest average Post-GPA among the major categories.
+
 AI is mainly used for purposes such as debugging/troubleshooting, copywriting/drafting, and ideation.
+
 Advanced prompt skills show a higher average skill score than Intermediate and Beginner levels.
+
 The dashboard highlights differences in burnout risk, anxiety, AI dependency, and academic performance.
 
 🛠️ Tools & Technologies
