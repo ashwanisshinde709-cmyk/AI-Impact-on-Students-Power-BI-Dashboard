@@ -7,6 +7,7 @@ AI Impact on Students is an interactive Power BI data analytics project that ana
 The project uses a dataset of 50,000 students and presents the analysis through an interactive dashboard with KPIs, charts, slicers, and detailed analysis.
 
 
+
 🎯 Project Objectives
 
 Analyze the relationship between AI usage and academic performance.
@@ -24,8 +25,7 @@ Analyze burnout risk and anxiety levels.
 Compare student performance across different major categories.
 
 
-📊 Dashboard Features
-Executive Dashboard
+📊 Dashboard Features Executive Dashboard
 
 The main dashboard includes:
 
@@ -89,9 +89,11 @@ Interactive Dashboard Design
 
 📷 Dashboard Preview
 Executive Dashboard
+
 <img width="1020" height="473" alt="Screenshot 2026-08-09 101015" src="https://github.com/user-attachments/assets/983fa096-0b40-4536-a232-1109ae659f2d" />
 
 Detailed Analysis
+
 <img width="833" height="442" alt="Screenshot 2026-08-09 101044" src="https://github.com/user-attachments/assets/1f587e8e-7f5a-4262-9e8c-6b5dae849afa" />
 
 <img width="833" height="460" alt="Screenshot 2026-08-09 101117" src="https://github.com/user-attachments/assets/bd5642a5-b190-43fe-833a-fb71e9cdf390" />
